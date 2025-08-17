@@ -9,4 +9,4 @@ Built with **Tkinter**, packaged as an **.exe** for easy use.
 - Dynamic info updates per iteration
 
 ### Run
-Download the `.exe` start sorting!
+Download the `.exe` from dist folder start sorting!
