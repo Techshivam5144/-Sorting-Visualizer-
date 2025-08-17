@@ -8,5 +8,6 @@ Built with **Tkinter**, packaged as an **.exe** for easy use.
 - Step-by-step visualization (Next / Prev / Auto-play)
 - Dynamic info updates per iteration
 
-### Run
-Download the `.exe` from dist folder start sorting!
+### Run the App
+Clone this repo and download the `.exe` from the **`dist/` folder** to run directly.  
+(Or run the Python script if you have Python installed.)
